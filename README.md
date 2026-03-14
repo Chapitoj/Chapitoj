@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Chapitoj/Chapitoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+    ___       ___       ___       ___       ___       ___       ___      ___
+   /\  \     /\__\     /\  \     /\  \     /\  \     /\  \     /\  \    /\  \
+  /::\  \   /:/__/_   /::\  \   /::\  \   _\:\  \    \:\  \   /::\  \   _\:\  \
+ /:/\:\__\ /::\/\__\ /::\:\__\ /::\:\__\ /\/::\__\   /::\__\ /:/\:\__\ /\/::\__\
+ \:\ \/__/ \/\::/  / \/\::/  / \/\::/  / \::/\/__/  /:/\/__/ \:\/:/  / \::/\/__/
+  \:\__\     /:/  /    /:/  /     \/__/   \:\__\    \/__/     \::/  /   \/__/
+   \/__/     \/__/     \/__/               \/__/               \/__/
+```
+<br>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&color=458F8F&lines=Welcome+to+my+Profile;Nice+to+see+you+here+%3A)" alt="Typing SVG"/></p>
