@@ -8,4 +8,4 @@
    \/__/     \/__/     \/__/               \/__/               \/__/
 ```
 <br>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&color=458F8F&lines=Welcome+to+my+Profile;Nice+to+see+you+here+%3A)" alt="Typing SVG"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?pause=1000&font=Bungee&size=30&color=458F8F&lines=Welcome+to+my+Profile;Nice+to+see+you+here+%3A)" alt="Typing SVG"/></p>
